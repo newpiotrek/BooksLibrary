@@ -1,0 +1,6 @@
+1|Matrix|Wachowski Brothers|1999|978-3-16-148410-1|true
+2|Matrix2|Wachowski Brothers2|2000|978-3-16-148410-2|true
+3|Matrix3|Wachowski Brothers3|2003|978-3-16-148410-3|true
+4|Matrix4|Wachowski Brothers4|2004|978-3-16-148410-1|false
+5|ma5|wa5|05|5|false
+6|matrix6|wachowski|1995|43243 324324 23432432 |false
